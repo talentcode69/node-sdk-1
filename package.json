@@ -1,0 +1,19 @@
+{
+  "name": "mynode1",
+  "version": "1.0.0",
+  "description": "node sdk 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talentcode69/node-sdk-1.git"
+  },
+  "author": "Talentcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talentcode69/node-sdk-1/issues"
+  },
+  "homepage": "https://github.com/talentcode69/node-sdk-1#readme"
+}
